@@ -10,3 +10,5 @@ By just putting in a few hours a week for the next several weeks, you'll gain:
 new skills to add to your resume, such as Regression, Classification, Clustering, Sci-kit Learn and SciPy 
 new projects that you can add to your portfolio, including cancer detection, predicting economic trends, predicting customer churn, recommendation engines, and many more.
 a certificate in machine learning to prove your competency, and share it anywhere you like online or offline, such as LinkedIn profiles and social media.
+
+Note: All the course content is numbered by order to look at or study from.
